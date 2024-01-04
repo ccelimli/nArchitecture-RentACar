@@ -1,0 +1,15 @@
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.dll
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.pdb
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistence.dll
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistence.pdb
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.dll
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.pdb
+C:\workspace\nArchitecture\src\rentACar\RentACar\Domain\obj\Debug\net7.0\ref\Domain.dll
