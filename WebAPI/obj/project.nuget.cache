@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hBj4u4qY9fBsfrzdPgYmEX7LLs0E+z4dZuGJJrUi+Vu9e+NsuaqWtNo1GodgGWXhYFmyKyin3oY8V5a6y5YUSw==",
+  "dgSpecHash": "uHY5z3sRoSgOyjz6+HKQ2+8yAevEdo8yHhstlmhqd06b3WHVqHj3p7S6lhcxMkDZTKKafd7MVGRwMDQKwLey0w==",
   "success": true,
   "projectFilePath": "C:\\workspace\\nArchitecture\\src\\rentACar\\RentACar\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,8 @@
     "C:\\Users\\cceli\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
     "C:\\Users\\cceli\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "C:\\Users\\cceli\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.0\\pipelines.sockets.unofficial.2.2.0.nupkg.sha512",
+    "C:\\Users\\cceli\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\cceli\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\cceli\\.nuget\\packages\\stackexchange.redis\\2.2.4\\stackexchange.redis.2.2.4.nupkg.sha512",
     "C:\\Users\\cceli\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\cceli\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
